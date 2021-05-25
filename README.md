@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhargav1719
+- 👋 Hi, I’m @Bhargav
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Developement
 - 📫 How to reach me bhargavtoleti@gmail.com
