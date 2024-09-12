@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhargav
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Developement
+- 🌱 I’m currently Working on Web Developement(MERN and ANGULAR)
 - 📫 How to reach me bhargavtoleti@gmail.com
 
 <!---
